@@ -4,10 +4,11 @@ I'm a 15-year-old from India, passionate about Linux and programming. In my free
 
 ## My Development Environment
 
-- **🖥️ Code Editors**: Neovim, VSCode&#8203;:contentReference[oaicite:0]{index=0}
-- **🪟 Window Managers**: :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
-- **🐧 Linux Distributions**: :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-- **💻 Operating Systems**: :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
+## My Environment
+- 🖥️ **Editor**: Neovim, VSCode
+- 🏞️ **Window Manager**: i3wm, KDE
+- 🐧 **Linux Distro**: Kubuntu, Arch
+- 💻 **OS**: Windows with WSL (Windows Subsystem for Linux)
 
 ## Connect with Me
 
