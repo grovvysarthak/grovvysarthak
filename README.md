@@ -6,7 +6,8 @@ I'm a 15-year-old from India, passionate about Linux and programming. In my free
 
 ## My Environment
 - 🖥️ **Editor**: Neovim, VSCode
-- 🏞️ **Window Manager**: i3wm, KDE
+- 🏞️ **Window Manager**: i3wm
+- 🌌 **Desktop Environment**: Kde
 - 🐧 **Linux Distro**: Kubuntu, Arch
 - 💻 **OS**: Windows with WSL (Windows Subsystem for Linux)
 
